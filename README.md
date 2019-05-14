@@ -1,2 +1,4 @@
 # hello-world2
-Just another repository
+Hi everyone!
+
+Today the weather is very cool!
